@@ -1,2 +1,1 @@
-# cms-super-resolution
-Building SRGAN with PINN and UQ for clear detection of sparks and gluons images
+"# CMS Calorimeter Super-Resolution (SRGAN + Physics + UQ)" 
